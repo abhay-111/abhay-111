@@ -1,15 +1,8 @@
 <h3 title="hehehe"> Hey 👋, I'm Abhay!</h3>
 
-<a href="https://www.linkedin.com/in/jaskirat-singh-009348178">
+<a href="https://www.linkedin.com/in/abhay-chauhan-851752199/">
   <img align="left" alt="Abhay LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://www.instagram.com/jaskirat.mokha/">
-  <img align="left" alt="Abhay Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://www.facebook.com/profile.php?id=100009175092863">
-  <img align="left" alt="Abhay Facebook" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
-
 
 
 
