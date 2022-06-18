@@ -18,8 +18,8 @@ A **WEB DEVELOPMENT** ***Enthusiast*** 🚀.
 **About Me!**
 
 - 👨🏽‍💻 I’m currently a CSE Undergrad student at AKGEC,Ghaziabad
-- 🌱 I’m currently exploring Vue.js with a big interest in Javascript and Data Structures and Algorithms. 
-- 🤔 My interest lies in Full Stack web development.
+- 🌱 I’m currently exploring Vue 3 and Nuxt 3 with a big interest in Javascript and Data Structures and Algorithms. 
+- 🤔 My interest lies in Full Stack web development and devops.
 - 💬 Ask me about anything, I love to answer!
 - 📫 Email me at [abhaychauhan232@gmail.com](mailto:abhaychauhan232@gmail.com).
 
