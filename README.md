@@ -3,13 +3,11 @@
 <a href="https://www.linkedin.com/in/abhay-chauhan-851752199/">
   <img align="left" alt="Abhay LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<br/>
+
+
+<br />
+<br />
 ![](https://komarev.com/ghpvc/?username=abhay-111)
-
-
-<br />
-<br />
-
 A **WEB DEVELOPMENT** ***Enthusiast*** 🚀.
  
 
