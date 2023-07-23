@@ -15,7 +15,7 @@ A **WEB DEVELOPMENT** ***Enthusiast*** 🚀.
 
 **About Me!**
 
-- 👨🏽‍💻 I’m currently a SDE Intern at Supershare
+- 👨🏽‍💻 I’m currently at Shortloop
 - 🌱 I’m currently exploring Vue 3 and Nuxt 3 with a big interest in Javascript. 
 - 🤔 My interest lies in Full Stack web development.
 - 💬 Ask me about anything, I love to answer!
