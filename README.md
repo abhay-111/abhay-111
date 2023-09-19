@@ -42,8 +42,7 @@ A **WEB DEVELOPMENT** ***Enthusiast*** 🚀.
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhay-111&count_private=true&theme=radical" alt="abhay-111" />
-<img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhay-111&count_private=true&theme=radical" alt="abhay-111" />
+
 
 ----
 Credit: [abhay-111](https://github.com/abhay-111)
